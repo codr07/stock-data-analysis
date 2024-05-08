@@ -16,10 +16,7 @@
     <td><p align="center">
  <a href="https://github.com/codr07/my-portfolio/releases/tag/html"><img src="https://img.shields.io/badge/1.0-white?logo=github&label=Version&labelColor=red"/></a>
 </p></td>
-  <td> <strong>Deplying Site :</strong> </td>
-<td><p align="center">
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify3.svg"/>
-</p></td>
+  
   </tr>
 </table>
 <table align="center">
@@ -27,7 +24,7 @@
     <td> <strong>Used Languages :</strong> </td>
     <td>
       <p align="center">
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> 
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/R/r1.svg"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"/> 
 </p>
     </td>
   </tr>
