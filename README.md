@@ -7,8 +7,8 @@
  </td>
 </tr>
 </table>
-<h1 align="center">My Portfolio</h1>
-<h3 align="center">Details: Build up and Development</h3>
+<h1 align="center">My UG Sem 6 Project</h1>
+<h3 align="center">Details: Data Prodction of Stock Exchange</h3>
 <hr - />
 <table align="center">
   <tr>
