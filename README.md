@@ -46,12 +46,12 @@ Results
 
 ![UI](ibm3.jpg)
 
-Blog:
-----
+/*Blog:*/
+/*----*/
 
-Check out my Medium article ,where I have explained in detail.
+/*Check out my Medium article ,where I have explained in detail.*/
 
-[Blog Link](https://nandisoham2017.medium.com/stock-market-analysis-and-forecasting-using-deep-learning-f75052e81301)
+/*[Blog Link](https://nandisoham2017.medium.com/stock-market-analysis-and-forecasting-using-deep-learning-f75052e81301)*/
 
 
 
