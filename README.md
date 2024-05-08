@@ -1,3 +1,53 @@
+<table align="center"><tr>
+  <td>
+<p align="center">
+<img src="https://github.com/codr07/my-portfolio/blob/main/assets/img/IMG_20240229_172129.jpg" width="100px"><br>
+  CODR
+<p>
+ </td>
+</tr>
+</table>
+<h1 align="center">My Portfolio</h1>
+<h3 align="center">Details: Build up and Development</h3>
+<hr - />
+<table align="center">
+  <tr>
+    <td><strong>Version :</strong></td>
+    <td><p align="center">
+ <a href="https://github.com/codr07/my-portfolio/releases/tag/html"><img src="https://img.shields.io/badge/1.0-white?logo=github&label=Version&labelColor=red"/></a>
+</p></td>
+  <td> <strong>Deplying Site :</strong> </td>
+<td><p align="center">
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify3.svg"/>
+</p></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td> <strong>Used Languages :</strong> </td>
+    <td>
+      <p align="center">
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components1.svg"/> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"/> 
+</p>
+    </td>
+  </tr>
+</table>
+
+<hr  />
+
+<p align="center">  
+  🔗 <strong>Visit my Website :</strong>
+<a href="https://codr.netlify.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodr.netlify.app&up_message=Website--here&style=for-the-badge&logo=Netlify&label=Visit"/></a>
+</p>
+<br/>
+<hr/>
+
+> [!NOTE]
+> This reposiratory is for practicing advanced web building practicing.
+
+> [!CAUTION]
+> All (c) copyrights are reserved by Sankha Saha (CODR):  [![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8FSecurity%20!-%23f00707?style=for-the-badge)](https://github.com/codr07/my-portfolio/blob/main/SECURITY.md)
+
 # Stock-Market-Analysis-And-Forecasting-Using-Deep-Learning
 
 ![UI](gg.jpg)
