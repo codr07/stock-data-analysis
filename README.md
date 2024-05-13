@@ -43,7 +43,7 @@
 > This reposiratory is for my semester 6 Individual project documatation.
 
 > [!CAUTION]
-> All (c) copyrights are reserved by Sankha Saha (CODR):  [![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8FSecurity%20!-%23f00707?style=for-the-badge)](https://github.com/codr07/my-portfolio/blob/main/SECURITY.md)
+> All (c) copyrights are reserved by Sankha Saha (CODR):  [![Static Badge](https://img.shields.io/badge/%E2%9A%A0%EF%B8%8FSecurity%20!-%23f00707?style=for-the-badge)](https://github.com/codr07/stock-data-analysis/blob/main/SECURITY.md)
 
 # Stock-Market-Analysis-And-Forecasting-Using-Deep-Learning
 
