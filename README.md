@@ -35,7 +35,8 @@
 <p align="center">  
   🔗 <strong>Visit my Website :</strong>
   
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5729d7e7-f325-485c-aec7-085553070e7d/deploy-status)](https://app.netlify.com/sites/codrss/deploys)
+<a href="https://codrss.netlify.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcodr.netlify.app&up_message=Website--here&style=for-the-badge&logo=Netlify&label=Visit"/></a>
+</p>
 
 </p>
 <br/>
